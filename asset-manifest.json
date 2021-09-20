@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.b1f3bdcd.chunk.css",
-    "main.js": "/Website/static/js/main.b1d98f89.chunk.js",
-    "main.js.map": "/Website/static/js/main.b1d98f89.chunk.js.map",
-    "runtime-main.js": "/Website/static/js/runtime-main.44f84039.js",
-    "runtime-main.js.map": "/Website/static/js/runtime-main.44f84039.js.map",
-    "static/js/2.f1719020.chunk.js": "/Website/static/js/2.f1719020.chunk.js",
-    "static/js/2.f1719020.chunk.js.map": "/Website/static/js/2.f1719020.chunk.js.map",
-    "index.html": "/Website/index.html",
-    "precache-manifest.1d8a7187c7ea5bdbaa7873acd9ffade4.js": "/Website/precache-manifest.1d8a7187c7ea5bdbaa7873acd9ffade4.js",
-    "service-worker.js": "/Website/service-worker.js",
-    "static/css/main.b1f3bdcd.chunk.css.map": "/Website/static/css/main.b1f3bdcd.chunk.css.map",
-    "static/js/2.f1719020.chunk.js.LICENSE": "/Website/static/js/2.f1719020.chunk.js.LICENSE",
-    "static/media/naafi_photo.png": "/Website/static/media/naafi_photo.680982e6.png"
+    "main.css": "/website/static/css/main.b1f3bdcd.chunk.css",
+    "main.js": "/website/static/js/main.9b6392c1.chunk.js",
+    "main.js.map": "/website/static/js/main.9b6392c1.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.f411584a.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.f411584a.js.map",
+    "static/js/2.f1719020.chunk.js": "/website/static/js/2.f1719020.chunk.js",
+    "static/js/2.f1719020.chunk.js.map": "/website/static/js/2.f1719020.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.47eb56123fa99760b0c188a59affaac1.js": "/website/precache-manifest.47eb56123fa99760b0c188a59affaac1.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.b1f3bdcd.chunk.css.map": "/website/static/css/main.b1f3bdcd.chunk.css.map",
+    "static/js/2.f1719020.chunk.js.LICENSE": "/website/static/js/2.f1719020.chunk.js.LICENSE",
+    "static/media/naafi_photo.png": "/website/static/media/naafi_photo.680982e6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44f84039.js",
+    "static/js/runtime-main.f411584a.js",
     "static/js/2.f1719020.chunk.js",
     "static/css/main.b1f3bdcd.chunk.css",
-    "static/js/main.b1d98f89.chunk.js"
+    "static/js/main.9b6392c1.chunk.js"
   ]
 }
