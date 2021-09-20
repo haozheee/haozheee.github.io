@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.b1f3bdcd.chunk.css",
+    "main.js": "/Website/static/js/main.2acfe39a.chunk.js",
+    "main.js.map": "/Website/static/js/main.2acfe39a.chunk.js.map",
+    "runtime-main.js": "/Website/static/js/runtime-main.44f84039.js",
+    "runtime-main.js.map": "/Website/static/js/runtime-main.44f84039.js.map",
+    "static/js/2.f1719020.chunk.js": "/Website/static/js/2.f1719020.chunk.js",
+    "static/js/2.f1719020.chunk.js.map": "/Website/static/js/2.f1719020.chunk.js.map",
+    "index.html": "/Website/index.html",
+    "precache-manifest.87c80805e6c46efa1f821b0a7b16946c.js": "/Website/precache-manifest.87c80805e6c46efa1f821b0a7b16946c.js",
+    "service-worker.js": "/Website/service-worker.js",
+    "static/css/main.b1f3bdcd.chunk.css.map": "/Website/static/css/main.b1f3bdcd.chunk.css.map",
+    "static/js/2.f1719020.chunk.js.LICENSE": "/Website/static/js/2.f1719020.chunk.js.LICENSE",
+    "static/media/naafi_photo.png": "/Website/static/media/naafi_photo.680982e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44f84039.js",
+    "static/js/2.f1719020.chunk.js",
+    "static/css/main.b1f3bdcd.chunk.css",
+    "static/js/main.2acfe39a.chunk.js"
+  ]
+}
